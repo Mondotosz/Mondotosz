@@ -1,7 +1,7 @@
 ## About me
 I finished my apprenticeship successfully in summer 2023 and will start working on a higher degree at HEIG-VD.
 
-## stats
+## Stats
 
 <picture>
   <source
