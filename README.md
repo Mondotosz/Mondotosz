@@ -2,7 +2,6 @@
 I finished my apprenticeship successfully in summer 2023 and will start working on a higher degree at HEIG-VD.
 
 ## stats
-![Mondotossz's GitHub stats](https://github-readme-stats.vercel.app/api?username=mondotosz&show_icons=true&theme=transparent)
 
 <picture>
   <source
@@ -16,4 +15,4 @@ I finished my apprenticeship successfully in summer 2023 and will start working 
   <img src="https://github-readme-stats.vercel.app/api?username=mondotosz&show_icons=true" />
 </picture>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mondotosz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mondotosz)](https://github.com/anuraghazra/github-readme-stats)
